@@ -1,0 +1,12 @@
+.selects{
+width: 150px;
+height: 150px;
+border-radius: 25%;
+text-align: center;
+border: 10px solid aqua;
+font-size: 25px;
+
+}
+.selections{
+    text-align: center;
+}

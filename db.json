@@ -1,0 +1,12 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name": "mike",
+            "last_name":"smith",
+            "age":23,
+            "email":"text@mail.ru",
+            "phone":"+374999999"
+        }
+    ]
+}
